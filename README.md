@@ -1,4 +1,4 @@
-#  SQL Practice — Do Básico ao Avançado
+#  Prática de SQL - Básico ao Avançado
 
 Repositório dedicado à resolução de exercícios de **SQL** do **básico ao avançado**, utilizando plataformas como **LeetCode**, **HackerRank** e **SQLZoo**.  
 O objetivo deste projeto é **consolidar conhecimentos em SQL**, **estruturar raciocínio lógico para dados** e **demonstrar domínio prático da linguagem**, com foco em **Engenharia de Dados**.
