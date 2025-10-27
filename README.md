@@ -27,3 +27,17 @@ Este repositório foi criado para:
 
 ##  Estrutura do Repositório
 
+
+
+
+## Padrão de Commits
+
+Abaixo estão os principais tipos de commit utilizados no projeto, organizados para facilitar a visualização:
+
+- **feat:** Adição de nova funcionalidade ou componente (ex.: criação de tabela, pipeline ou camada de processamento).
+- **fix:** Correção de erro ou falha (ex.: problemas em pipeline ETL, inconsistências de schema, falhas em jobs de transformação).
+- **doc:** Atualização ou criação de documentação (ex.: descrições de fluxos ETL, diagramas de arquitetura, notas sobre qualidade dos dados).
+- **refactor:** Reorganização ou melhoria de código/processos sem alterar funcionalidade (ex.: queries, pipelines).
+- **style:** Ajustes de formatação ou layout (ex.: alinhamento de scripts, formatação de SQL, organização visual de diagramas).
+- **test:** Adição ou modificação de testes (ex.: scripts de validação de dados, verificações de qualidade em pipelines).
+- **perf:** Melhorias de desempenho (ex.: otimizações em jobs de ingestão, agregações, leitura de dados de fontes externas).
